@@ -2,7 +2,7 @@
   "name": "nasa-api",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://hoangtrandaingoc.github.io/nasa",
+  "homepage": "http://hoangtrandaingoc.github.io/nasa/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
