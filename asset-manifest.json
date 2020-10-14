@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nasa/static/css/main.c9bc7cd0.chunk.css",
+    "main.js": "/nasa/static/js/main.e32f7a91.chunk.js",
+    "main.js.map": "/nasa/static/js/main.e32f7a91.chunk.js.map",
+    "runtime-main.js": "/nasa/static/js/runtime-main.b7f74675.js",
+    "runtime-main.js.map": "/nasa/static/js/runtime-main.b7f74675.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/nasa/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.baf27c51.chunk.js": "/nasa/static/js/2.baf27c51.chunk.js",
+    "static/js/2.baf27c51.chunk.js.map": "/nasa/static/js/2.baf27c51.chunk.js.map",
+    "index.html": "/nasa/index.html",
+    "precache-manifest.ac19247a7a1b8c8896dc0b860afe4dc2.js": "/nasa/precache-manifest.ac19247a7a1b8c8896dc0b860afe4dc2.js",
+    "service-worker.js": "/nasa/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/nasa/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.c9bc7cd0.chunk.css.map": "/nasa/static/css/main.c9bc7cd0.chunk.css.map",
+    "static/js/2.baf27c51.chunk.js.LICENSE.txt": "/nasa/static/js/2.baf27c51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7f74675.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.baf27c51.chunk.js",
+    "static/css/main.c9bc7cd0.chunk.css",
+    "static/js/main.e32f7a91.chunk.js"
+  ]
+}
